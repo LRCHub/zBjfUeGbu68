@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "淡く微か",
+  "base_artist": "sajou no hana",
+  "createdAt": "2026-02-14T18:22:04.637888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "淡く微か",
+      "artist": "sajou no hana",
+      "has_synced": true,
+      "path": "select/01_淡く微か_sajou_no_hana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "淡く微か",
+      "artist": "sajou no hana",
+      "has_synced": false,
+      "path": "select/02_淡く微か_sajou_no_hana.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "淡く微か",
+      "artist": "sajou no hana",
+      "has_synced": false,
+      "path": "select/pl_01_淡く微か_sajou_no_hana.txt"
+    }
+  ]
+}
